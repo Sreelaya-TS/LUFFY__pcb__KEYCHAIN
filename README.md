@@ -19,6 +19,3 @@ and the main part this was all abt my pcb but if you wanna make this on your own
 
 happy building!
 
-![image](https://stasis.hackclub-assets.com/images/1774961299686-z1mklb.png)
-![image](https://stasis.hackclub-assets.com/images/1774961301784-6gf2mc.png)
-![image](https://stasis.hackclub-assets.com/images/1774961303765-cygqp8.png)
